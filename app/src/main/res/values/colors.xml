@@ -21,5 +21,6 @@
     <color name="settings_blue">#7B95F2</color>
     <color name="settings_green">#99CACE</color>
     <color name="settings_red">#FF0000</color>
+    <color name="cancel">#807763EE</color>
 
 </resources>

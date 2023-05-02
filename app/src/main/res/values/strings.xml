@@ -36,4 +36,5 @@
     <string name="enterPhoneNumber">Введите номер телефона\nМы отправим СМС с кодом подтверждения на номер, который Вы укажете</string>
     <string name="getCode">Получить код</string>
     <string name="agreeWith">Нажимая на кнопку Вы соглашаетесь</string>
+    <string name="cancel">Отменить</string>
 </resources>
