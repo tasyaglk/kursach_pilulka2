@@ -38,7 +38,8 @@
             android:textStyle="bold"
             android:hint="@string/addphonenumber"
             android:inputType="phone"
-            android:minHeight="48dp" />
+            android:minHeight="48dp"
+            android:maxLength="12"/>
 
         <Button
             android:id="@+id/button4"

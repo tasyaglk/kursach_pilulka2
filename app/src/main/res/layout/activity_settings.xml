@@ -45,21 +45,21 @@
         android:id="@+id/about_app"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/settings_about_app"
-        android:textColor="@color/words_color"
-        android:textStyle="bold"
         android:layout_marginStart="30dp"
-        android:layout_marginTop="350dp" />
+        android:layout_marginTop="350dp"
+        android:text="@string/settings_about_app"
+        android:textColor="#7986CB"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/settings_account"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/settings_account"
-        android:textColor="@color/words_color"
-        android:textStyle="bold"
         android:layout_marginStart="28dp"
-        android:layout_marginTop="575dp" />
+        android:layout_marginTop="575dp"
+        android:text="@string/settings_account"
+        android:textColor="#7986CB"
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/main_view"
@@ -229,21 +229,21 @@
         android:id="@+id/education"
         android:layout_width="337dp"
         android:layout_height="30dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="493dp"
         android:background="@drawable/white_settings_button"
         android:ems="10"
-        android:paddingLeft="8dp"
-        android:paddingRight="8dp"
-        android:paddingTop="4dp"
-        android:paddingBottom="4dp"
-        android:textAllCaps="false"
-        android:minHeight="48dp"
-        android:text="@string/education"
         android:gravity="left"
-        android:textColor="@color/settings_blue"
+        android:minHeight="48dp"
+        android:paddingLeft="8dp"
+        android:paddingTop="4dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="4dp"
+        android:text="@string/education"
+        android:textAllCaps="false"
+        android:textColor="#448AFF"
         android:textSize="15sp"
-        android:textStyle="bold"
-        android:layout_marginStart="28dp"
-        android:layout_marginTop="493dp" />
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/premium_pro"
